@@ -1,0 +1,27 @@
+{
+  "name": "cnntest",
+  "version": "1.0.0",
+  "description": "UI test for CNN webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romecam16/CNNTest.git"
+  },
+  "keywords": [
+    "jest",
+    "puppeteer"
+  ],
+  "author": "cromerol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romecam16/CNNTest/issues"
+  },
+  "homepage": "https://github.com/romecam16/CNNTest#readme",
+  "dependencies": {
+    "puppeteer": "1.17.0",
+    "jest": "24.8.0"
+  }
+}
